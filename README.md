@@ -1,6 +1,6 @@
 - Breakout clone in Odin
 
-Learning the magnificent Odin language, and Raylib, by following along with the incredible [Karl Zylinski](https://www.youtube.com/@karl_zylinski) lecture series! All credits to Karl
+Learning the magnificent Odin language, and Raylib, by following along with the incredible [Karl Zylinski](https://www.youtube.com/@karl_zylinski) lecture series, but adding my own implementations! All credits to Karl
 
 install odin and ols if you want to build and mess about,
 
