@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Odin Program",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/breakout.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "preLaunchTask": "Build Odin Project"
+    }
+  ]
+}
